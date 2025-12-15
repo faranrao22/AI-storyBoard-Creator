@@ -1,0 +1,6 @@
+gradio==3.50.1
+Pillow==10.3.0
+requests==2.32.0
+nest-asyncio==1.5.8
+edge-tts==7.2.7
+groq==0.37.1
