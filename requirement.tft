@@ -1,0 +1,10 @@
+# Core Python libraries (already included in standard library)
+# os, json, asyncio, subprocess, time, warnings, tempfile, shutil, pathlib, urllib, textwrap, io
+
+# External dependencies
+edge-tts==1.1.0
+Pillow==10.1.0
+gradio==3.53.1
+groq==0.2.3
+requests==2.31.0
+nest-asyncio==1.5.8
